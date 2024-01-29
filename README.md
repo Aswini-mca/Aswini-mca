@@ -14,6 +14,8 @@
 
 🔗 https://www.linkedin.com/in/aswini-r-5559a32a1/
 
+🌐 My Portfolio https://lively-buttercream-6b3a21.netlify.app/
+
 
 <!---
 Aswini-mca/Aswini-mca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
