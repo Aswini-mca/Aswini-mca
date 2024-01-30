@@ -2,7 +2,7 @@
 
 👀 I’m interested in web development
 
-🌱 I’m currently learning Full Stack Developer Course on MERN Stack in Guvi Geek Network
+🌱 I’m learning Full Stack Developer Course on MERN Stack in Guvi Geek Network
 
 🛠️ Skills
 
