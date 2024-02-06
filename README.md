@@ -6,7 +6,7 @@
 
 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,bootstrap,materialui,aws,postman)](https://skillicons.dev)
 
 😃 I am now eagerly seeking opportunities to apply my knowledge and skills in a challenging and collaborative environment. Let's build something incredible together!
 
